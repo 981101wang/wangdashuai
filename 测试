@@ -1,0 +1,39 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>学习测试</title>
+	<link href="css.css" rel="stylesheet">
+	<style>
+		/*.p1 {text-indent: 2em;}
+		.p2 {text-transform: capitalize; font-size: 40px; 
+			text-shadow: 3px 3px 0px gray,4px 4px 3px #000;}
+	*/
+		a {display: block; /*border: 1px red solid;*/ width: 160px; /*height: 40px; */
+			text-align: center; line-height: 50px; font-size: 18px; text-decoration: none; font-family: Cambria, 
+      "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+			background: #E92024; color: aliceblue; font-weight: bold;}
+		
+		.p1 {width: 340px; height: 300px; border: 1px red solid;
+			  1overflow: scroll; overflow: auto;  letter-spacing:5px;}
+		.p4 {letter-spacing: 2em; font-size: 12px; border: 2px #E36A6C solid; letter-spacing: 2em; width: 500px; padding-left: 100px;}
+		
+	</style>
+	</head>
+
+<body>
+	<p class="p1">王大帅王大帅王大帅王大帅王大帅王大帅王大帅王大帅王大帅
+  王大帅王大帅王大帅王大帅王大帅王大帅王大帅王大帅王大帅王大帅王大帅王大帅
+  王大帅王大帅王大帅王大帅王大帅王大帅王大帅王大帅王大帅王大帅王大帅王大帅王大
+  帅王大帅王大帅王大帅王大帅王大帅王大帅王大帅王大帅王大帅王大帅王大帅王大帅王大帅王大帅王大帅
+  王大帅王大帅王大帅王大帅王大帅王大帅王大帅王大帅王大帅王大帅王大帅王大帅王大帅王大帅王大帅王大帅王大帅
+  王大帅王大帅王大帅王大帅王大帅王大帅王大帅王大帅王大帅王大帅王大帅王大帅王大帅王大帅王大帅王大帅王大帅王大帅王大帅</p>
+	
+	
+	<p class="p2">wang xiao dong</p>
+	
+	<a href="https://study.163.com/course/courseLearn.htm?courseId=1005200001&share=1&shareId=1449929979#/learn/video?lessonId=1051888144&courseId=1005200001">立即购买</a>
+	
+	<p class="p4">wang xiao dong</p>
+</body>
+</html>
